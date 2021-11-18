@@ -33,3 +33,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Added at 2021-11-18 15:24:30 +0900 by desktop-opmvgri\clip9:
+gem "webrick", "~> 1.7"
