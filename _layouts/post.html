@@ -38,9 +38,10 @@ layout: base
   {% endcase %}
 {% endfor %}
 
-
+{% if page.comments %}
 <h2>comments</h2>
 <div id="disqus_thread"></div>
+{% endif %}
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
