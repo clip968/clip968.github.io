@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   clip968.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -45,8 +45,8 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Nam> <Jae Jun>
+  email:               <clip968@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -264,6 +264,7 @@ compress_html:
 
 sass:
   style:               compressed
+
 comment:
   provider:            "disqus"
   disqus:
