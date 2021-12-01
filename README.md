@@ -63,8 +63,8 @@
 
  ## 4. 댓글 기능 추가
   - Disqus 사이트 주소 : <https://disqus.com>
- 1. Disqus 사이트 회원가입
- 2. Disqus 세팅
+  1. Disqus 사이트 회원가입
+  2. Disqus 세팅
  ### Pixyll 테마 사용시 주의할 사항
   - Pixyll 테마 사용시 ppt에 나온 key-value를 쓰지 않는다.
   - 또한 disqus 홈페이지에서 universal code도 쓰지 않는다.
@@ -76,6 +76,8 @@
   - 보는 법:
       
         우측 상단 프로필 클릭 > Settings
+  3. 적용 완료
+  
     
   
 
