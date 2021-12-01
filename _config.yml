@@ -1,10 +1,10 @@
 # Site settings
-title:       clip968
-email:       clip968@gmail.com
+title:       Pixyll
+email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "https://clip968.github.io"
+url:         "https://pixyll.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
