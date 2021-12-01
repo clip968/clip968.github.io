@@ -41,4 +41,14 @@
   ```ruby
   bundle exec jekyll serve --trace
   ```
+  6. 적용 사항 Commit 작성 후 Push
+  7. 예시 파일인 MongoDB 따라서 작성해보기
+## 3. Theme 적용
+  - 테마 페이지 1: <http://jekyllthemes.org>
+  - 테마 페이지 2: <https://jekyllthemes.io/free>
 
+ 1. 처음 적용 했던 테마:
+        Hydejack : <http://jekyllthemes.org/themes/hydejack/>
+    그러나 문제는 초보자였던 나에게 너무 어려웠던 템플릿
+    따라서 더 쉬운 템플릿으로 갈아타기로 결정
+ 2. 
