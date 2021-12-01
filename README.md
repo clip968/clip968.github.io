@@ -18,5 +18,27 @@
   ```ruby
   jekyll -v
   ```
-  4. 
-
+  4. Jekyll Setup
+  ```ruby
+  jekyll new . --force
+  ```
+  5. Jekyll 실행하기
+  ```ruby
+  bundle exec jekyll serve
+  ```
+  ### Jekyll Webrick Error
+  - 참고한 페이지: <https://junho85.pe.kr/1850>
+  > 'require': cannot load such file -- webrick (LoadError)
+  - 해결하는 법:
+  ```ruby
+  bundle add webrick
+  ```
+  ### Another Jekyll Error
+  - 참고한 페이지: <https://velog.io/@minji-o-j/jekyll-오류-해결>
+  > Jekyll 4.2.0 Please append --trace to the serve command 
+  > for any additional information or backtrace
+  - 해결하는 법:
+  ```ruby
+  bundle exec jekyll serve --trace
+  ```
+  
