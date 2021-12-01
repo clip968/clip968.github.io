@@ -14,7 +14,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: G-T0CVNWDV0N
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -34,7 +34,7 @@ post_preview_image: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id:
+fb_page_id: 
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -47,7 +47,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: clip968
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
