@@ -70,12 +70,12 @@
   - 또한 disqus 홈페이지에서 universal code도 쓰지 않는다.
   - 적용 방법: 
 
-      disqus_shortname: clip968-github-io
+        disqus_shortname: clip968-github-io
 
     _config.yml안에 disqus_shortname 칸이 존재하는데 이곳에 자신의 disqus 계정 shortname을 적으면 된다.
   - 보는 법:
       
-      우측 상단 프로필 클릭 > Settings
+        우측 상단 프로필 클릭 > Settings
     
   
 
