@@ -10,5 +10,5 @@ categories: jekyll update
 1. Gemfile에  "gem 'jekyll-admin', group: :jekyll_plugins" 추가
 2. bundle exec jekyll serve로 사이트 실행
 3. http://localhost:4000/admin 으로 접속
-4. ![admin 화면](./images/captured.png)
+4. ![admin 화면](https://github.com/clip968/clip968.github.io/blob/main/images/captured.png?raw=true)
 
